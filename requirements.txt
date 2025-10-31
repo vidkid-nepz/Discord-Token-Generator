@@ -1,0 +1,17 @@
+# Core Discord Account Generator Dependencies
+pyautogui>=0.9.54
+requests>=2.31.0
+httpx>=0.24.0
+tls-client>=0.2.0
+colorama>=0.4.6
+pystyle>=2.0.0
+notifypy>=1.0.3
+websocket-client>=1.6.0
+python-dateutil>=2.8.2
+
+# hCaptcha Solver Dependencies
+playwright>=1.40.0
+hcaptcha-challenger>=0.9.0
+
+# Note: After installing, run: playwright install chromium
+
